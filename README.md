@@ -1,1 +1,1 @@
-# Matrice-et-r-gressions
+# Matrice-et-régressions
